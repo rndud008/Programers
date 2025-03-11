@@ -27,7 +27,7 @@ public class 배열두배만들기 {
 //        }
 //        answer = numbers;
 
-        // 재귀 함수.
+        // 재귀 함수.//
 //        doubleNumbersRecursive(numbers, 0);
 
         // 스트림 사용.
